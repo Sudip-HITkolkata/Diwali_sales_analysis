@@ -20,7 +20,9 @@ Python project - Analyze Diwali sales data to improve customer experience and sa
 ## Technologies Used
 
   -**Python:** Main programming language for data analysis, preprocessing, and modeling.
+  
 -**Pandas, NumPy, Matplotlib, Seaborn:** Libraries for data manipulation, analysis, and visualization.
+
 -**Scikit-learn:** For machine learning tasks such as clustering, classification, and regression.
 
 
