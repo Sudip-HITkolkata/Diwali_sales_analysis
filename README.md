@@ -4,7 +4,7 @@ Python project - Analyze Diwali sales data to improve customer experience and sa
 
 ## Key Features
 
- -**Data Cleaning and Preprocessing:** The project includes comprehensive data cleaning and preprocessing steps to ensure the accuracy and reliability of the analysis.
+ - **Data Cleaning and Preprocessing:** The project includes comprehensive data cleaning and preprocessing steps to ensure the accuracy and reliability of the analysis.
 
   - **Exploratory Data Analysis (EDA):** Utilizing various statistical and visualization techniques, the project explores the Diwali sales data to uncover patterns, correlations, and trends. EDA helps in identifying key factors influencing sales and customer behavior.
 
